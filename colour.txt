@@ -1,0 +1,5 @@
+0a42f5 - light Blue
+031652 - Dark Blue
+d5bcf5 - light purple
+bccef5 - white blue
+b7f1f7 - green blue
